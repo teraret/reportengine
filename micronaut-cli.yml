@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: reportengine
+---
+testFramework: junit
+sourceLanguage: java
